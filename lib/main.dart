@@ -4,6 +4,7 @@ void main() {
   runApp(const MyApp());
   int c = 0;
   int d = 0;
+  int e = 0;
 }
 
 class MyApp extends StatelessWidget {
